@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+.data/
+results/
+node_modules/
+.DS_Store
+*.sqlite*
+
+reply.wav
